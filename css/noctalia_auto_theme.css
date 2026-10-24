@@ -147,6 +147,7 @@
   ---color-orange-xxdeep-fg: {{colors.orange_xxdeep_fg_source.default.hex}};
   ---color-orange-xxxdeep-fg: {{colors.orange_xxxdeep_fg_source.default.hex}};
   ---color-pink-light-fg: {{colors.pink_light_fg_source.default.hex}};
+  ---color-pink-xlight-border: {{colors.pink_xlight_border_source.default.hex}};
   ---color-pink-xlight-fg: {{colors.pink_xlight_fg_source.default.hex}};
   ---color-pink-xxlight-fg: {{colors.pink_xxlight_fg_source.default.hex}};
   ---color-pink-xxxlight-fg: {{colors.pink_xxxlight_fg_source.default.hex}};

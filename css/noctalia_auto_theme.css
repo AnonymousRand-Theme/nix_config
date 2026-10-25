@@ -149,6 +149,7 @@
   ---color-pink-xxlight-fg: {{colors.pink_xxlight_fg_source.default.hex}};
   ---color-pink-xxxlight-fg: {{colors.pink_xxxlight_fg_source.default.hex}};
   ---color-pink-xxxxlight-border: {{colors.pink_xxxxlight_border_source.default.hex}};
+  ---color-pink-xxxxxlight-bg: {{colors.pink_xxxxxlight_bg_source.default.hex}};
   ---color-pink-xxxxxxlight-bg: {{colors.pink_xxxxxxlight_bg_source.default.hex}};
   ---color-red-fg: {{colors.red_fg_source.default.hex}};
   ---color-search-bg: {{colors.search_bg_source.default.hex}};

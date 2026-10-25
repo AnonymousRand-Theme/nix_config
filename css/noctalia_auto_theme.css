@@ -37,7 +37,6 @@
   ---color-accent-violet-fg: {{colors.accent_violet_fg_source.default.hex}};
   ---color-accent-yellow-fg: {{colors.accent_yellow_fg_source.default.hex}};
   ---color-black-fg: {{colors.black_fg_source.default.hex}};
-  ---color-blue-bg: {{colors.blue_bg_source.default.hex}};
   ---color-blue-border: {{colors.blue_border_source.default.hex}};
   ---color-blue-deep-dark-fg: {{colors.blue_deep_dark_fg_source.default.hex}};
   ---color-blue-xdeep-fg: {{colors.blue_xdeep_fg_source.default.hex}};
@@ -114,7 +113,6 @@
   ---color-gray-xxdark-fg: {{colors.gray_xxdark_fg_source.default.hex}};
   ---color-gray-xxlight-border: {{colors.gray_xxlight_border_source.default.hex}};
   ---color-gray-xxxlight-bg: {{colors.gray_xxxlight_bg_source.default.hex}};
-  ---color-green-bg: {{colors.green_bg_source.default.hex}};
   ---color-green-border: {{colors.green_border_source.default.hex}};
   ---color-green-deep-dark-fg: {{colors.green_deep_dark_fg_source.default.hex}};
   ---color-green-deep-xdark-fg: {{colors.green_deep_xdark_fg_source.default.hex}};
@@ -138,7 +136,6 @@
   ---color-md-code: {{colors.md_code_source.default.hex}};
   ---color-md-italic: {{colors.md_italic_source.default.hex}};
   ---color-md-title: {{colors.md_title_source.default.hex}};
-  ---color-orange-bg: {{colors.orange_bg_source.default.hex}};
   ---color-orange-border: {{colors.orange_border_source.default.hex}};
   ---color-orange-deep-fg: {{colors.orange_deep_fg_source.default.hex}};
   ---color-orange-shallow-light-bg: {{colors.orange_shallow_light_bg_source.default.hex}};
@@ -151,7 +148,6 @@
   ---color-pink-xlight-fg: {{colors.pink_xlight_fg_source.default.hex}};
   ---color-pink-xxlight-fg: {{colors.pink_xxlight_fg_source.default.hex}};
   ---color-pink-xxxlight-fg: {{colors.pink_xxxlight_fg_source.default.hex}};
-  ---color-pink-xxxxlight-bg: {{colors.pink_xxxxlight_bg_source.default.hex}};
   ---color-pink-xxxxlight-border: {{colors.pink_xxxxlight_border_source.default.hex}};
   ---color-pink-xxxxxxlight-bg: {{colors.pink_xxxxxxlight_bg_source.default.hex}};
   ---color-red-fg: {{colors.red_fg_source.default.hex}};

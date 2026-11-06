@@ -138,6 +138,7 @@
   ---color-md-title: {{colors.md_title_source.default.hex}};
   ---color-orange-border: {{colors.orange_border_source.default.hex}};
   ---color-orange-deep-fg: {{colors.orange_deep_fg_source.default.hex}};
+  ---color-orange-deep-light-fg: {{colors.orange_deep_light_fg_source.default.hex}};
   ---color-orange-shallow-light-bg: {{colors.orange_shallow_light_bg_source.default.hex}};
   ---color-orange-shallow-light-border: {{colors.orange_shallow_light_border_source.default.hex}};
   ---color-orange-xlight-border: {{colors.orange_xlight_border_source.default.hex}};
